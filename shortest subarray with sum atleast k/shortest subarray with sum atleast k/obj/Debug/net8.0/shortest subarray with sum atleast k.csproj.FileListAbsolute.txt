@@ -1,0 +1,14 @@
+G:\projects\.net\leet code\shortest subarray with sum atleast k\shortest subarray with sum atleast k\bin\Debug\net8.0\shortest subarray with sum atleast k.exe
+G:\projects\.net\leet code\shortest subarray with sum atleast k\shortest subarray with sum atleast k\bin\Debug\net8.0\shortest subarray with sum atleast k.deps.json
+G:\projects\.net\leet code\shortest subarray with sum atleast k\shortest subarray with sum atleast k\bin\Debug\net8.0\shortest subarray with sum atleast k.runtimeconfig.json
+G:\projects\.net\leet code\shortest subarray with sum atleast k\shortest subarray with sum atleast k\bin\Debug\net8.0\shortest subarray with sum atleast k.dll
+G:\projects\.net\leet code\shortest subarray with sum atleast k\shortest subarray with sum atleast k\bin\Debug\net8.0\shortest subarray with sum atleast k.pdb
+G:\projects\.net\leet code\shortest subarray with sum atleast k\shortest subarray with sum atleast k\obj\Debug\net8.0\shortest subarray with sum atleast k.GeneratedMSBuildEditorConfig.editorconfig
+G:\projects\.net\leet code\shortest subarray with sum atleast k\shortest subarray with sum atleast k\obj\Debug\net8.0\shortest subarray with sum atleast k.AssemblyInfoInputs.cache
+G:\projects\.net\leet code\shortest subarray with sum atleast k\shortest subarray with sum atleast k\obj\Debug\net8.0\shortest subarray with sum atleast k.AssemblyInfo.cs
+G:\projects\.net\leet code\shortest subarray with sum atleast k\shortest subarray with sum atleast k\obj\Debug\net8.0\shortest subarray with sum atleast k.csproj.CoreCompileInputs.cache
+G:\projects\.net\leet code\shortest subarray with sum atleast k\shortest subarray with sum atleast k\obj\Debug\net8.0\shortest subarray with sum atleast k.dll
+G:\projects\.net\leet code\shortest subarray with sum atleast k\shortest subarray with sum atleast k\obj\Debug\net8.0\refint\shortest subarray with sum atleast k.dll
+G:\projects\.net\leet code\shortest subarray with sum atleast k\shortest subarray with sum atleast k\obj\Debug\net8.0\shortest subarray with sum atleast k.pdb
+G:\projects\.net\leet code\shortest subarray with sum atleast k\shortest subarray with sum atleast k\obj\Debug\net8.0\shortest subarray with sum atleast k.genruntimeconfig.cache
+G:\projects\.net\leet code\shortest subarray with sum atleast k\shortest subarray with sum atleast k\obj\Debug\net8.0\ref\shortest subarray with sum atleast k.dll

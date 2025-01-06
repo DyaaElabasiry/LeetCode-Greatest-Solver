@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "take k of each char from left and right", "take k of each char from left and right\take k of each char from left and right.csproj", "{2852CAB8-765E-48C2-87CD-EC0E7C4CE186}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2852CAB8-765E-48C2-87CD-EC0E7C4CE186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2852CAB8-765E-48C2-87CD-EC0E7C4CE186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2852CAB8-765E-48C2-87CD-EC0E7C4CE186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2852CAB8-765E-48C2-87CD-EC0E7C4CE186}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

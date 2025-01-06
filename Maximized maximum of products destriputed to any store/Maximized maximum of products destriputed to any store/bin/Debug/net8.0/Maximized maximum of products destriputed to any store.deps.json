@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Maximized maximum of products destriputed to any store/1.0.0": {
+        "runtime": {
+          "Maximized maximum of products destriputed to any store.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Maximized maximum of products destriputed to any store/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+G:\projects\.net\leet code\asteroid collision\asteroid collision\bin\Debug\net8.0\asteroid collision.exe
+G:\projects\.net\leet code\asteroid collision\asteroid collision\bin\Debug\net8.0\asteroid collision.deps.json
+G:\projects\.net\leet code\asteroid collision\asteroid collision\bin\Debug\net8.0\asteroid collision.runtimeconfig.json
+G:\projects\.net\leet code\asteroid collision\asteroid collision\bin\Debug\net8.0\asteroid collision.dll
+G:\projects\.net\leet code\asteroid collision\asteroid collision\bin\Debug\net8.0\asteroid collision.pdb
+G:\projects\.net\leet code\asteroid collision\asteroid collision\obj\Debug\net8.0\asteroid collision.GeneratedMSBuildEditorConfig.editorconfig
+G:\projects\.net\leet code\asteroid collision\asteroid collision\obj\Debug\net8.0\asteroid collision.AssemblyInfoInputs.cache
+G:\projects\.net\leet code\asteroid collision\asteroid collision\obj\Debug\net8.0\asteroid collision.AssemblyInfo.cs
+G:\projects\.net\leet code\asteroid collision\asteroid collision\obj\Debug\net8.0\asteroid collision.csproj.CoreCompileInputs.cache
+G:\projects\.net\leet code\asteroid collision\asteroid collision\obj\Debug\net8.0\asteroid collision.dll
+G:\projects\.net\leet code\asteroid collision\asteroid collision\obj\Debug\net8.0\refint\asteroid collision.dll
+G:\projects\.net\leet code\asteroid collision\asteroid collision\obj\Debug\net8.0\asteroid collision.pdb
+G:\projects\.net\leet code\asteroid collision\asteroid collision\obj\Debug\net8.0\asteroid collision.genruntimeconfig.cache
+G:\projects\.net\leet code\asteroid collision\asteroid collision\obj\Debug\net8.0\ref\asteroid collision.dll

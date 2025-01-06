@@ -1,0 +1,14 @@
+G:\projects\.net\leet code\adding spaces to string\adding spaces to string\bin\Debug\net8.0\adding spaces to string.exe
+G:\projects\.net\leet code\adding spaces to string\adding spaces to string\bin\Debug\net8.0\adding spaces to string.deps.json
+G:\projects\.net\leet code\adding spaces to string\adding spaces to string\bin\Debug\net8.0\adding spaces to string.runtimeconfig.json
+G:\projects\.net\leet code\adding spaces to string\adding spaces to string\bin\Debug\net8.0\adding spaces to string.dll
+G:\projects\.net\leet code\adding spaces to string\adding spaces to string\bin\Debug\net8.0\adding spaces to string.pdb
+G:\projects\.net\leet code\adding spaces to string\adding spaces to string\obj\Debug\net8.0\adding spaces to string.GeneratedMSBuildEditorConfig.editorconfig
+G:\projects\.net\leet code\adding spaces to string\adding spaces to string\obj\Debug\net8.0\adding spaces to string.AssemblyInfoInputs.cache
+G:\projects\.net\leet code\adding spaces to string\adding spaces to string\obj\Debug\net8.0\adding spaces to string.AssemblyInfo.cs
+G:\projects\.net\leet code\adding spaces to string\adding spaces to string\obj\Debug\net8.0\adding spaces to string.csproj.CoreCompileInputs.cache
+G:\projects\.net\leet code\adding spaces to string\adding spaces to string\obj\Debug\net8.0\adding spaces to string.dll
+G:\projects\.net\leet code\adding spaces to string\adding spaces to string\obj\Debug\net8.0\refint\adding spaces to string.dll
+G:\projects\.net\leet code\adding spaces to string\adding spaces to string\obj\Debug\net8.0\adding spaces to string.pdb
+G:\projects\.net\leet code\adding spaces to string\adding spaces to string\obj\Debug\net8.0\adding spaces to string.genruntimeconfig.cache
+G:\projects\.net\leet code\adding spaces to string\adding spaces to string\obj\Debug\net8.0\ref\adding spaces to string.dll

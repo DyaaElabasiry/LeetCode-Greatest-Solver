@@ -1,0 +1,14 @@
+G:\projects\.net\leet code\take k of each char from left and right\take k of each char from left and right\bin\Debug\net8.0\take k of each char from left and right.exe
+G:\projects\.net\leet code\take k of each char from left and right\take k of each char from left and right\bin\Debug\net8.0\take k of each char from left and right.deps.json
+G:\projects\.net\leet code\take k of each char from left and right\take k of each char from left and right\bin\Debug\net8.0\take k of each char from left and right.runtimeconfig.json
+G:\projects\.net\leet code\take k of each char from left and right\take k of each char from left and right\bin\Debug\net8.0\take k of each char from left and right.dll
+G:\projects\.net\leet code\take k of each char from left and right\take k of each char from left and right\bin\Debug\net8.0\take k of each char from left and right.pdb
+G:\projects\.net\leet code\take k of each char from left and right\take k of each char from left and right\obj\Debug\net8.0\take k of each char from left and right.GeneratedMSBuildEditorConfig.editorconfig
+G:\projects\.net\leet code\take k of each char from left and right\take k of each char from left and right\obj\Debug\net8.0\take k of each char from left and right.AssemblyInfoInputs.cache
+G:\projects\.net\leet code\take k of each char from left and right\take k of each char from left and right\obj\Debug\net8.0\take k of each char from left and right.AssemblyInfo.cs
+G:\projects\.net\leet code\take k of each char from left and right\take k of each char from left and right\obj\Debug\net8.0\take k of each char from left and right.csproj.CoreCompileInputs.cache
+G:\projects\.net\leet code\take k of each char from left and right\take k of each char from left and right\obj\Debug\net8.0\take k of each char from left and right.dll
+G:\projects\.net\leet code\take k of each char from left and right\take k of each char from left and right\obj\Debug\net8.0\refint\take k of each char from left and right.dll
+G:\projects\.net\leet code\take k of each char from left and right\take k of each char from left and right\obj\Debug\net8.0\take k of each char from left and right.pdb
+G:\projects\.net\leet code\take k of each char from left and right\take k of each char from left and right\obj\Debug\net8.0\take k of each char from left and right.genruntimeconfig.cache
+G:\projects\.net\leet code\take k of each char from left and right\take k of each char from left and right\obj\Debug\net8.0\ref\take k of each char from left and right.dll

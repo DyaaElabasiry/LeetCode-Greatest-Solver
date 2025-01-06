@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "adding spaces to string/1.0.0": {
+        "runtime": {
+          "adding spaces to string.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "adding spaces to string/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "maximum number of integers to choose from a range I/1.0.0": {
+        "runtime": {
+          "maximum number of integers to choose from a range I.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "maximum number of integers to choose from a range I/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

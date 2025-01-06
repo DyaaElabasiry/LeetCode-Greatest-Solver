@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximized maximum of products destriputed to any store", "Maximized maximum of products destriputed to any store\Maximized maximum of products destriputed to any store.csproj", "{06CE3BAD-82AC-41BA-A81A-3604DB23496F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06CE3BAD-82AC-41BA-A81A-3604DB23496F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CE3BAD-82AC-41BA-A81A-3604DB23496F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CE3BAD-82AC-41BA-A81A-3604DB23496F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CE3BAD-82AC-41BA-A81A-3604DB23496F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

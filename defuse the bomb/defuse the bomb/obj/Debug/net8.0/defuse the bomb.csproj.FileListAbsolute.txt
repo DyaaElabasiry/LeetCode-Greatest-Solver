@@ -1,0 +1,14 @@
+G:\projects\.net\leet code\defuse the bomb\defuse the bomb\bin\Debug\net8.0\defuse the bomb.exe
+G:\projects\.net\leet code\defuse the bomb\defuse the bomb\bin\Debug\net8.0\defuse the bomb.deps.json
+G:\projects\.net\leet code\defuse the bomb\defuse the bomb\bin\Debug\net8.0\defuse the bomb.runtimeconfig.json
+G:\projects\.net\leet code\defuse the bomb\defuse the bomb\bin\Debug\net8.0\defuse the bomb.dll
+G:\projects\.net\leet code\defuse the bomb\defuse the bomb\bin\Debug\net8.0\defuse the bomb.pdb
+G:\projects\.net\leet code\defuse the bomb\defuse the bomb\obj\Debug\net8.0\defuse the bomb.GeneratedMSBuildEditorConfig.editorconfig
+G:\projects\.net\leet code\defuse the bomb\defuse the bomb\obj\Debug\net8.0\defuse the bomb.AssemblyInfoInputs.cache
+G:\projects\.net\leet code\defuse the bomb\defuse the bomb\obj\Debug\net8.0\defuse the bomb.AssemblyInfo.cs
+G:\projects\.net\leet code\defuse the bomb\defuse the bomb\obj\Debug\net8.0\defuse the bomb.csproj.CoreCompileInputs.cache
+G:\projects\.net\leet code\defuse the bomb\defuse the bomb\obj\Debug\net8.0\defuse the bomb.dll
+G:\projects\.net\leet code\defuse the bomb\defuse the bomb\obj\Debug\net8.0\refint\defuse the bomb.dll
+G:\projects\.net\leet code\defuse the bomb\defuse the bomb\obj\Debug\net8.0\defuse the bomb.pdb
+G:\projects\.net\leet code\defuse the bomb\defuse the bomb\obj\Debug\net8.0\defuse the bomb.genruntimeconfig.cache
+G:\projects\.net\leet code\defuse the bomb\defuse the bomb\obj\Debug\net8.0\ref\defuse the bomb.dll

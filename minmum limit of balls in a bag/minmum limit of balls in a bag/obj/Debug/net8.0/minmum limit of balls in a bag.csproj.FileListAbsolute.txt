@@ -1,0 +1,14 @@
+G:\projects\.net\leet code\minmum limit of balls in a bag\minmum limit of balls in a bag\bin\Debug\net8.0\minmum limit of balls in a bag.exe
+G:\projects\.net\leet code\minmum limit of balls in a bag\minmum limit of balls in a bag\bin\Debug\net8.0\minmum limit of balls in a bag.deps.json
+G:\projects\.net\leet code\minmum limit of balls in a bag\minmum limit of balls in a bag\bin\Debug\net8.0\minmum limit of balls in a bag.runtimeconfig.json
+G:\projects\.net\leet code\minmum limit of balls in a bag\minmum limit of balls in a bag\bin\Debug\net8.0\minmum limit of balls in a bag.dll
+G:\projects\.net\leet code\minmum limit of balls in a bag\minmum limit of balls in a bag\bin\Debug\net8.0\minmum limit of balls in a bag.pdb
+G:\projects\.net\leet code\minmum limit of balls in a bag\minmum limit of balls in a bag\obj\Debug\net8.0\minmum limit of balls in a bag.GeneratedMSBuildEditorConfig.editorconfig
+G:\projects\.net\leet code\minmum limit of balls in a bag\minmum limit of balls in a bag\obj\Debug\net8.0\minmum limit of balls in a bag.AssemblyInfoInputs.cache
+G:\projects\.net\leet code\minmum limit of balls in a bag\minmum limit of balls in a bag\obj\Debug\net8.0\minmum limit of balls in a bag.AssemblyInfo.cs
+G:\projects\.net\leet code\minmum limit of balls in a bag\minmum limit of balls in a bag\obj\Debug\net8.0\minmum limit of balls in a bag.csproj.CoreCompileInputs.cache
+G:\projects\.net\leet code\minmum limit of balls in a bag\minmum limit of balls in a bag\obj\Debug\net8.0\minmum limit of balls in a bag.dll
+G:\projects\.net\leet code\minmum limit of balls in a bag\minmum limit of balls in a bag\obj\Debug\net8.0\refint\minmum limit of balls in a bag.dll
+G:\projects\.net\leet code\minmum limit of balls in a bag\minmum limit of balls in a bag\obj\Debug\net8.0\minmum limit of balls in a bag.pdb
+G:\projects\.net\leet code\minmum limit of balls in a bag\minmum limit of balls in a bag\obj\Debug\net8.0\minmum limit of balls in a bag.genruntimeconfig.cache
+G:\projects\.net\leet code\minmum limit of balls in a bag\minmum limit of balls in a bag\obj\Debug\net8.0\ref\minmum limit of balls in a bag.dll
