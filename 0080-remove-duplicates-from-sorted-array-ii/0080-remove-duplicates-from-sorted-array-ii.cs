@@ -2,28 +2,17 @@ public class Solution
 {
     public int RemoveDuplicates(int[] nums)
     {
-        int uniqueElements = 1, n = nums[0];
-        bool isAddedTwice = false;
-
-        for (int i = 1; i < nums.Length; i++)
+        int uniqueElements = 1;
+        if(nums.Length<=2){return nums.Length;}
+        for (int i = 2; i < nums.Length; i++)
         {
-            if (nums[i] != n)
+            if (nums[i] != nums[uniqueElements] || nums[uniqueElements] != nums[uniqueElements-1])
             {
-                isAddedTwice = false;
-                n = nums[i];
-                nums[uniqueElements] = n;
-                uniqueElements++;
-                
+                nums[++uniqueElements] = nums[i];
             }
-
-            else if (nums[i] == n && !isAddedTwice)
-            {
-                isAddedTwice = true;
-                nums[uniqueElements] = n;
-                uniqueElements++;
-            }
+            
         }
 
-        return uniqueElements;
+        return uniqueElements+1;
     }
 }
