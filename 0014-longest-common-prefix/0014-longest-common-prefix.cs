@@ -8,32 +8,32 @@ public class Solution {
             return strs[0];
         }
         int minLength = 200;
-        StringBuilder stringBuilder = new StringBuilder();
-        for (int i = 0; i < strs.Length; i++)
+        //StringBuilder stringBuilder = new StringBuilder();
+        for (int j = 0; j < strs.Length; j++)
         {
-            minLength = Math.Min(strs[i].Length, minLength);
+            minLength = Math.Min(strs[j].Length, minLength);
         }
 
-        char ch;
+        //char ch;
         bool found = false;
-        int j;
-        for (int i = 0; i < minLength && !found; i++)
+        int i;
+        for ( i = 0; i < minLength && !found; i++)
         {
-            ch = strs[0][i];
-            for (j = 1; j < strs.Length && !found; j++)
+            //ch = strs[0][i];
+            for (int j = 1; j < strs.Length && !found; j++)
             {
-                if (strs[j][i]!=ch)
+                if (strs[j][i]!=strs[0][i])
                 {
                     found = true;
                 }
             }
 
-            if (!found)
+            /*if (!found)
             {
-                stringBuilder.Append(ch);
-            }
+                stringBuilder.Append(strs[0][i]);
+            }*/
         }
-
-        return stringBuilder.ToString();
+        Console.WriteLine(i);
+        return strs[0].Substring(0,minLength==0?0:!found?i:i-1);
     }
 }
