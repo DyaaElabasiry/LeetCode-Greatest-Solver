@@ -32,14 +32,24 @@ public class LRUCache
         }
         else
         {
-            linkedList.AddFirst(new LinkedListNode<(int key,int value)>((key,value)));
-            dic.Add(key,linkedList.First);
+            if (linkedList.Count < capacity)
+            {
+                linkedList.AddFirst(new LinkedListNode<(int key,int value)>((key,value)));
+                dic.Add(key,linkedList.First);
+                
+            }
+            else
+            {
+                dic.Remove(linkedList.Last.Value.key);
+                dic.Add(key,linkedList.Last);
+
+                linkedList.Last.Value = (key, value);
+                linkedList.RemoveLast();
+                linkedList.AddFirst(dic[key]);
+            }
+            
         }
-        if (linkedList.Count > capacity)
-        {
-            dic.Remove(linkedList.Last.Value.key);
-            linkedList.RemoveLast();
-        }
+        
         
     }
 }
