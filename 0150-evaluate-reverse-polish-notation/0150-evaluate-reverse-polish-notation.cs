@@ -7,11 +7,7 @@ public class Solution
         int num2;
         for (int i = 0; i < tokens.Length; i++)
         {
-            if (tokens[i] != "+" && tokens[i] != "-" && tokens[i] != "*" && tokens[i] != "/")
-            {
-                stack.Push(int.Parse(tokens[i]));
-            }
-            else
+            if (tokens[i] == "+" || tokens[i] == "-" || tokens[i] == "*" || tokens[i] == "/")
             {
                 num1 = stack.Pop();
                 num2 = stack.Pop();
@@ -32,7 +28,12 @@ public class Solution
                     stack.Push(num2 / num1);
                 }
             }
+            else
+            {
+                stack.Push(int.Parse(tokens[i]));
+            }
         }
+
         return stack.Pop();
     }
 }
