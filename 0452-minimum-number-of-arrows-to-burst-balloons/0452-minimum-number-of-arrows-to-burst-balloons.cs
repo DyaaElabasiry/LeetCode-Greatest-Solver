@@ -25,13 +25,6 @@ public class Solution {
 
     public bool DoesIntersectWithCollection(int collectionStart, int collectionEnd, int[][] points)
     {
-        for (int i = collectionStart; i < collectionEnd; i++)
-        {
-            if (!AreOverlapping(points[i], points[collectionEnd]))
-            {
-                return false;
-            }
-        }
-        return true;
+        return points[collectionStart][1]>=points[collectionEnd][0];
     }
 }
