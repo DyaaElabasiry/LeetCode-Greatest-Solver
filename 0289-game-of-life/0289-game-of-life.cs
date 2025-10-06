@@ -20,17 +20,14 @@ public class Solution {
                 int count = 0;
                 foreach (var move in moves)
                 {
-                    if (move[0] + i >= 0 && move[0] +i < boardCopy.Length && move[1] + j >= 0 &&
-                        move[1] + j < boardCopy[0].Length)
+                    if (move[0] + i >= 0 && move[0] +i < board.Length && move[1] + j >= 0 &&
+                        move[1] + j < board[0].Length)
                     {
                         if (board[move[0] + i][move[1]  + j] == 1) count++;
                     }
                 }
 
-                if (count == 3)
-                {
-                    boardCopy[i][j] = 1;
-                }else if (count == 2 && board[i][j] == 1)
+                if (count == 3 || (count == 2 && board[i][j] == 1))
                 {
                     boardCopy[i][j] = 1;
                 }
